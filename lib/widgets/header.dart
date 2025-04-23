@@ -13,7 +13,7 @@ class Header extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              "Hello, Ahmed Hussein",
+              "Hello, Mo",
               style: GoogleFonts.poppins(
                   fontSize: 24, fontWeight: FontWeight.w600),
             ),
